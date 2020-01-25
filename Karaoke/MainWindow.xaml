@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="Play" Content="Button" HorizontalAlignment="Left" Margin="67,129,0,0" VerticalAlignment="Top" Width="669" Height="178" FontSize="6" Click="Button_Click"/>
-        <TextBlock x:Name="texto" TextWrapping="Wrap" Margin="67,149,56,40" Height="230" TextAlignment="Center" VerticalAlignment="Center" FontSize="64" FontFamily="Impact"/>
+        <TextBlock x:Name="texto" TextWrapping="Wrap" Margin="10,80,11.6,10" Height="330" TextAlignment="Center" VerticalAlignment="Center" FontSize="64" FontFamily="Consolas"/>
         <ProgressBar x:Name="bara" HorizontalAlignment="Left" Height="31" Margin="10,44,0,0" VerticalAlignment="Top" Width="772"/>
 
     </Grid>
